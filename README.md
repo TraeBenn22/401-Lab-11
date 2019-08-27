@@ -5,7 +5,7 @@
 ### Author: Josh Nebe, Trae Bennett, Benjamin Clark
 
 ### Links and Resources
-* [submission PR](https://github.com/yosh-401-advanced-javascript/lab-00/pull/2)
+* [submission PR](https://github.com/TraeBenn22/401-Lab-11)
 * [travis](https://travis-ci.com/yosh-401-advanced-javascript/lab-00.svg?branch=master)
 * [front-end](https://yosh-lab-00.herokuapp.com/) (when applicable)
 
